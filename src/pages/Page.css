@@ -1,0 +1,70 @@
+*{
+  text-align: center;
+}
+.Brand{
+  font-style: italic;
+}
+.Navbar{
+  justify-content:space-between;
+  text-indent: 100px;
+
+}
+.welcome{
+  font-size: 20px;
+  height:100 vh;
+
+}
+Button{
+  margin: 5px;
+  font-size: 30px;
+  background-color: #66DAA2;
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 25px;
+  padding: 15px 70px;
+  font-size: .9em;
+  font-weight: 500;
+}
+.ButtonArea{
+  display: flex;
+  justify-content: space-around;
+}
+.Textarea{
+  width: 900px;
+  height: 500px;
+}
+label{
+  color: #66CCC9;
+  font-size: 30px;
+  font-style: italic;
+}
+
+Header{
+  font-size: 20px;
+
+}
+.homePage{
+  text-align: center;
+  font-size: 80px;
+  font-style:italic;
+  overflow: auto;
+  color: white;
+}
+
+.Dropdown{
+  height: 100px;
+}
+.Message{
+  font-size: 20px;
+  font-style: italic;
+  color: white;
+}
+
+.Container{
+  display: flex;
+  justify-content: space-around;
+}
+.Table{
+  color: red;
+}
